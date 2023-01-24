@@ -1,3 +1,4 @@
+<!--
 #### Мои проекты на Java:
 - [Форум](https://github.com/VladBaykin/forum) - Spring Boot web-приложение, представляет собой простую реализацию форума. (Spring Boot(Data, Security, Test), JSP, JSTL, PostgreSQL, Maven, Heroku). 
 - [TODO list](https://github.com/VladBaykin/todo_list) - TODO-list - список дел. (Servlets, PostgreSQL, Hibernate, Liquibase, JUnit4, Mockito, PowerMock, Maven, Tomcat).
